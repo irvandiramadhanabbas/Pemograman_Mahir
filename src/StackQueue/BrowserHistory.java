@@ -3,7 +3,7 @@ package StackQueue;
 import java.util.Stack;
 import java.util.Scanner;
 
-    public class Main {
+    public class BrowserHistory {
         // Stack untuk menyimpan history browser
         private Stack<String> history;
 
